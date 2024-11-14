@@ -101,7 +101,7 @@ index.html:
 
   <!-- Footer -->
   <footer class="bg-light text-center py-3 mt-5">
-    <p>[Atluru Sai Vardhan Reddy - 212221040022]</p>
+    <p>[Chandru SM - 212223230034]</p>
   </footer>
 
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
